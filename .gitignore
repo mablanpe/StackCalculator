@@ -1,0 +1,9 @@
+/.fake
+/build
+bin
+obj
+/packages
+/deploy
+/.paket/paket.targets
+/.paket/paket.exe
+!/.paket/paket.bootstrapper.exe
