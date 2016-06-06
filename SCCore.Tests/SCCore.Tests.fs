@@ -76,7 +76,7 @@ module AddTests =
     let ``Should raise ex when adding with zero-elem stack`` () =
         let stack = EMPTY
         
-        raises<exn> <@ ADD stack @>    
+        raises<exn> <@ ADD stack @>
 
 module MulTests = 
 
